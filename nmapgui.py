@@ -4,7 +4,6 @@
 NmapGUI - Une interface CLI simple et colorée pour nmap, façon "Zenmap" en terminal.
 Compatible Linux (Debian/Ubuntu, Fedora, Arch, etc.)
 
-Auteur: Claude (Anthropic) pour Antoine
 Licence: MIT
 """
 
